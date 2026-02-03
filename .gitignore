@@ -1,0 +1,14 @@
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# MkDocs
+site/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
