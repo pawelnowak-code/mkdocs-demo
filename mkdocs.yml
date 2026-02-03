@@ -52,12 +52,12 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
-extra:
-  social:
-    - icon: simple/youtube
-      link: https://youtube.com/@james-willett
-    - icon: simple/linkedin
-      link: https://linkedin.com/in/willettjames
+# extra:
+#   social:
+#     - icon: simple/youtube
+#       link: https://youtube.com/@james-willett
+#     - icon: simple/linkedin
+#       link: https://linkedin.com/in/willettjames
 
-copyright: Copyright &copy; 2024 James Willett
+# copyright: Copyright &copy; 2024 James Willett
 #
